@@ -1,0 +1,1 @@
+# Proyecto para testar una libreria sin standalone y un proyecto que lo importe en angular 17
